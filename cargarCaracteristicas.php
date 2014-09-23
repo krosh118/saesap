@@ -21,6 +21,7 @@ while ($row = mysql_fetch_array($result, MYSQL_ASSOC)) {
     }
     echo "<td style=\"text-align:center\">$descripcion</td>";
     echo "<td style=\"text-align:center\">$salon</td>";
+	// Comentario hecho por Mario //
     echo "</tr>";
 }
 
