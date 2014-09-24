@@ -23,6 +23,7 @@ while ($row = mysql_fetch_array($result, MYSQL_ASSOC)) {
     echo "<td style=\"text-align:center\">$salon</td>";
 	// Comentario hecho por Mario //
 	// Comentario hecho por victor //
+	// Comentario hecho por Rita  \0/
     echo "</tr>";
 }
 
